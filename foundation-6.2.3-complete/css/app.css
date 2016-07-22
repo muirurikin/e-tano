@@ -1,0 +1,28 @@
+.kichwa {
+    height: 70%;
+    background: url(header/header.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.par {
+    color: antiquewhite;
+    font-size: 30px;
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 80px;
+}
+.h-mbili {
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: right;
+    padding-right: 100px;
+}
+.baby-steps {
+    letter-spacing: 4px;
+    font-size: 25px;
+    border: 10px solid whitesmoke;
+    border-spacing: 100px;
+    color:gray;
+    background-color: #E4E4E4;
+}
