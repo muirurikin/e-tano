@@ -1,5 +1,16 @@
+.spanner {
+    display: flex;
+}
+.large-4 {
+   padding-top: 80px;
+   height: 600px;
+   background-color: #E4E4E4
+}
+.large-8 {
+    padding-top: 80px;
+}
 .kichwa {
-    height: 70%;
+    height: 56.5%;
     background: url(header/header.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
@@ -19,10 +30,19 @@
     padding-right: 100px;
 }
 .baby-steps {
-    letter-spacing: 4px;
-    font-size: 25px;
-    border: 10px solid whitesmoke;
-    border-spacing: 100px;
-    color:gray;
-    background-color: #E4E4E4;
+    border-bottom: 3px solid white;
+    color: grey;
+}
+.baby-steps:hover {
+  color: lightskyblue;
+}
+.baby-steps1 {
+    color: lightskyblue;
+    background-color: white;
+}
+.baby-steps1:hover {
+  color: grey;
+}
+.bi {
+    color: deepskyblue;
 }
